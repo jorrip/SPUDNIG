@@ -9,7 +9,7 @@ SPUDNIG only accepts .avi files because OpenPose performs optimal when using thi
 Below you can find a screenshot of SPUDNIG ready to analyze a video:
 ![alt text](https://github.com/jorrip/SPUDNIG/blob/master/Screenshot.png)
 
-
+Note that this code does not fully compile since it needs a working version of OpenPose. A working version of the application can be downloaded [here](www.test.com).
 
 
 
