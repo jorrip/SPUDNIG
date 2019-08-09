@@ -12,12 +12,4 @@ Below you can find a screenshot of SPUDNIG ready to analyze a video:
 Note that this code does not fully compile since it needs a working version of OpenPose. A working version of the application can be downloaded [here](www.test.com).
 
 # License
-SPUDNIG is freely available for free non-commercial use, and may be redistributed under these conditions.
-
-
-
-
-
-
-
-
+SPUDNIG is available for academic or non-profit organization noncommercial research use only, and may be redistributed under these conditions.
