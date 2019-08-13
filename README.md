@@ -1,5 +1,5 @@
 # SPUDNIG
-This repository contains the source code of the SPeeding Up the Detection of Non-iconic and Iconic Gestures (SPUDNIG) toolkit. A working version of the application can be downloaded [here](https://osf.io/7c9t2/). SPUDNIG is created during my MSc thesis project at the Max Planck Institute Nijmegen. SPUDNIG's purpose is to speed up annotation work of hand gestures in Elan. SPUDNIG takes as input a video file and extracts the gestures and their timing.
+This repository contains the source code of the SPeeding Up the Detection of Non-iconic and Iconic Gestures (SPUDNIG) toolkit for Windows only. A working version of the application can be downloaded [here](https://osf.io/7c9t2/). SPUDNIG is created during my MSc thesis project at the Max Planck Institute Nijmegen. SPUDNIG's purpose is to speed up annotation work of hand gestures in Elan. SPUDNIG takes as input a video file and extracts the gestures and their timing.
 
 SPUDNIG makes use of [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) in order to obtain x- and y-coordinates of keypoints in the body and hands. Based on this information gestures and their timing are calculated and a .csv file is created which is importable by [Elan](https://tla.mpi.nl/tools/tla-tools/elan/).
 
